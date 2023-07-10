@@ -10,7 +10,7 @@
 
 ✨ If you're looking for a dedicated and enthusiastic Junior MERN developer to join your team, feel free to reach out. I'm eager to contribute my skills, bring fresh perspectives, and be part of building amazing web applications. Let's connect and create something remarkable together!
 
-📫 You can contact me via email at abdullah.s.nuaimi@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/abdullah-al-nuaimi-1948941b0/ . I look forward to hearing from you!
+📫 You can contact me via email at abdullah.s.nuaimi@gmail.com or connect with me on LinkedIn www.linkedin.com/in/abdullah-nuaimi . I look forward to hearing from you!
 <!---
 AbdullahNuaimi/AbdullahNuaimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
