@@ -1,4 +1,4 @@
-# About me
+# About me 🎓
 🎓 I recently graduated with a degree in computer engineering, where I honed my technical skills and developed a strong foundation in software development. During my studies, I became fascinated by web development and found my true calling in building modern, dynamic web applications.
 # MERN stack
 💻 As a Junior MERN developer, I'm excited to apply my knowledge and contribute to innovative projects that push the boundaries of what's possible on the web. My expertise lies in the MERN stack, which encompasses MongoDB, Express.js, React.js, and Node.js. I enjoy working with this powerful combination of technologies because it allows me to create highly interactive and scalable applications.
